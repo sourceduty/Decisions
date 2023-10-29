@@ -23,7 +23,7 @@ A decision is certian when the outcome of each alternative is fully known. There
 
 A decision is risky when there is a possibility of multiple outcomes for each alternative. A probability of occurrence can be attached to each outcome.
 
-3. Uncertian Decisions: 
+3. Uncertain Decisions: 
 
 A decision is uncertian when there are a number of outcomes for each alternative and the probabilities of their occurrences are not known.
 
