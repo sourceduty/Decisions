@@ -15,7 +15,7 @@ Specified procedures or decision rules are used to create a decision. Decisions 
 
 An outcome defines what will happen when a decision is made. The knowledge of outcome decisions is classified into three categories.
 
-1. Certian Decisions: 
+1. Certain Decisions: 
 
 A decision is certian when the outcome of each alternative is fully known. There is only one outcome for each alternative.
 
