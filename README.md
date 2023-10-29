@@ -25,7 +25,7 @@ A decision is risky when there is a possibility of multiple outcomes for each al
 
 3. Uncertain Decisions: 
 
-A decision is uncertian when there are a number of outcomes for each alternative and the probabilities of their occurrences are not known.
+A decision is uncertain when there are a number of outcomes for each alternative and the probabilities of their occurrences are not known.
 
 #
 
