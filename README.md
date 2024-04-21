@@ -18,6 +18,7 @@ Step 2: Preferences in the "Common Knowledge Model" guide how new decisions are 
 
 Step 3: The "Decision Model" adds to, changes and replaces preferences in "Common Knowledge Model".
 
+#
 #### Common Knowledge Model
 
 1. Personality
@@ -54,15 +55,18 @@ Step 3: The "Decision Model" adds to, changes and replaces preferences in "Commo
 
 - Utilization of knowledge.
 
+#
 #### Decision Model
 
 1. Color Sorting Example Process
 
+```
 [Initial List] → [Select Pivot] → [Partitioning (↻)]
                     ↓                      ↓
                 [Recursive Sorting Left (↻)] [Recursive Sorting Right (↻)]
                     ↓                      ↓
                 [Concatenate] → [Repeat (↻) if needed] → [End of Sort]
+```
 
 This is a high-detail process diagram of Quick Sort applied to sorting 10 colors.
 
