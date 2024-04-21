@@ -51,7 +51,7 @@ Step 3: The "Decision Model" adds to, changes and replaces preferences in "Commo
 - Professional
 
 5. Profession or Utility
-6. 
+
 - Utilization of knowledge.
 
 #### Decision Model
