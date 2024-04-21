@@ -1,35 +1,77 @@
-### Python_Decisions
+![Decision](https://github.com/sourceduty/Python_Decisions/assets/123030236/3b0bb8ca-0d2e-48f2-837e-12e175ece7a0)
 
-🧠 Making simple decisions using Python.
+Decisions are the junctions in life and technology where a choice is made between multiple alternatives, often leading to different outcomes. In human contexts, decisions can be influenced by emotions, past experiences, and the complex interplay of various cognitive processes. Computers, however, approach decision-making differently. They rely on algorithms and logical processing to choose actions based on predefined rules or criteria. This computational approach ensures consistency and speed, especially in scenarios where vast amounts of data need to be analyzed quickly, but it lacks the nuanced understanding and adaptability often exhibited by human decision-makers.
 
-This software is free and open-source; anyone can redistribute it and/or modify it.
-#
+In the realm of programming, Python, a versatile and widely-used programming language, facilitates decision-making through various constructs like conditional statements and loops. Python's decision-making capability is critical in tasks ranging from simple data sorting to complex machine learning algorithms. For instance, Python can decide which emails are spam and which are not by analyzing patterns in data. This is done using libraries that support statistical analysis and machine learning, providing tools that allow Python to make increasingly accurate and complex decisions, even though these decisions are ultimately guided by the human developers who design the algorithms and set the parameters within which Python operates.
 
-### DECISION-MAKING
+***
+### Notes
 
-Specified procedures or decision rules are used to create a decision. Decisions are routine and repetitive. Decisions have traditionally been made by habits or procedures.
+<details><summary>Common Decision Model Concept</summary>
+<br>
 
-#
+#### Common Decision Model Process
 
-### OUTCOMES
+Step 1: Decision preferences are preset and stored in the "Common Knowledge Model".
+Step 2: Preferences in the "Common Knowledge Model" guide how new decisions are completed in the "Decision Model".
+Step 3: The "Decision Model" adds to, changes and replaces preferences in "Common Knowledge Model".
 
-An outcome defines what will happen when a decision is made. The knowledge of outcome decisions is classified into three categories.
+#### Common Knowledge Model
 
-1. Certain Decisions: 
+1. Personality
 
-A decision is certian when the outcome of each alternative is fully known. There is only one outcome for each alternative.
+- Friendly: Approachable and easy to talk to.
+- Helpful: Enjoys offering assistance and guidance.
+- Knowledgeable: Well-informed and able to provide information on a wide range of topics.
+- Engaging: Keeps conversations interesting and interactive.
+- Supportive: Encourages and supports others in their endeavors.
+- Adaptive: Can adjust communication style based on the situation and interlocutor.
 
-2. Risky Decisions: 
+2. Location or Nationality
 
-A decision is risky when there is a possibility of multiple outcomes for each alternative. A probability of occurrence can be attached to each outcome.
+- Canadian
+- American
+- Spanish
+- Japanese
+- German
 
-3. Uncertain Decisions: 
+3. Age
 
-A decision is uncertain when there are a number of outcomes for each alternative and the probabilities of their occurrences are not known.
+- Child 
+- Teen
+- Adult 
+- Elderly
 
-#
+4. Knowledge
 
-### PYTHON DECISIONS
+- Personal
+- General
+- Professional
+
+5. Profession or Utility
+- Utilization of knowledge.
+
+#### Decision Model
+
+1. Color Sorting Example Process
+
+[Initial List] → [Select Pivot] → [Partitioning (↻)]
+                    ↓                      ↓
+                [Recursive Sorting Left (↻)] [Recursive Sorting Right (↻)]
+                    ↓                      ↓
+                [Concatenate] → [Repeat (↻) if needed] → [End of Sort]
+
+This is a high-detail process diagram of Quick Sort applied to sorting 10 colors.
+
+
+
+<br>    
+</details>
+
+<details><summary>Python Decisions</summary>
+<br>
+    
+#### Python Decisions
 
 In Python, simple decisions are created using the conditional sentance statements IF, ELSE and ELIF. Conditional keywords AND, NOT and OR are used to combine multiple conditions on boolean values.
 
@@ -74,6 +116,8 @@ for colour in colour_input1:
 
 ```
 
-### REFERENCES
+<br>    
+</details>
 
-[Control Statements](https://www.learnpython.dev/02-introduction-to-python/110-control-statements-looping/10-if-else-elif/)
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
