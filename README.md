@@ -13,7 +13,9 @@ In the realm of programming, Python, a versatile and widely-used programming lan
 #### Common Decision Model Process
 
 Step 1: Decision preferences are preset and stored in the "Common Knowledge Model".
+
 Step 2: Preferences in the "Common Knowledge Model" guide how new decisions are completed in the "Decision Model".
+
 Step 3: The "Decision Model" adds to, changes and replaces preferences in "Common Knowledge Model".
 
 #### Common Knowledge Model
@@ -49,6 +51,7 @@ Step 3: The "Decision Model" adds to, changes and replaces preferences in "Commo
 - Professional
 
 5. Profession or Utility
+6. 
 - Utilization of knowledge.
 
 #### Decision Model
@@ -62,8 +65,6 @@ Step 3: The "Decision Model" adds to, changes and replaces preferences in "Commo
                 [Concatenate] → [Repeat (↻) if needed] → [End of Sort]
 
 This is a high-detail process diagram of Quick Sort applied to sorting 10 colors.
-
-
 
 <br>    
 </details>
